@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{955B46AE-CB10-4AA7-A4D4-11CAA14F2A1A}</ProjectGuid>
+    <ProjectGuid>{982DEC44-0BF1-4771-8DD6-3E51A1872136}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>AlgorithmChapter6</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
